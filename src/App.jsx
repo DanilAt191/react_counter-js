@@ -6,12 +6,12 @@ export const App = () => {
 
   const addOne = () => {
     // write code here
-    setCount(curentCount => curentCount + 1);
+    setCount(currentCount => currentCount + 1);
   };
 
   const add100 = () => {
     // write code here
-    setCount(curentCount => curentCount + 100);
+    setCount(currentCount => currentCount + 100);
   };
 
   // DON'T change the code below
